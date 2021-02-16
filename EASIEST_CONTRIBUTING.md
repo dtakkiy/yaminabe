@@ -11,14 +11,14 @@
 # 超簡単な手順
 - 編集したいファイルをgithub上で探す。
   - 例えばこの`EASIEST_CONTRIBUTING.md`
-- ファイル内容のちょっと上、右側の鉛筆マークを押す
+- ファイル内容のちょっと上、右側の鉛筆マークを押す。
 - 編集画面になる
-- 文字列の変更などを行う
-- Propose changesの1つ目の入力欄に変更内容を入力
+- 文字列の変更などを行う。
+- Propose changesの1つ目の入力欄に変更内容を入力。
 - Propose changesの2つ目の入力欄にメモ書きを追加（任意）
-- Propose changeボタンを押す
-- 画面が変わるので変更内容をチェックする
-- `Create pull request` ボタンを押す
+- Propose changeボタンを押す。
+- 画面が変わるので変更内容をチェックする。
+- `Create pull request` ボタンを押す。
 
 
 # 最後に
